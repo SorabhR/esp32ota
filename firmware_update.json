@@ -1,4 +1,4 @@
 {
     "version": 0.2,
-    "file": "https://esp32tutorial.netsons.org/https_ota/firmware.bin"
+    "file": "https://github.com/SorabhR/esp32ota/blob/master/firmware.bin?raw=True"
 }
